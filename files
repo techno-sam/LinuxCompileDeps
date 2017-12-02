@@ -9,7 +9,6 @@ jpegsrc.v6b.tar.gz@7079f0d6c42fad0cfba382cf6ad322add1ace8f9@http://www.ijg.org/f
 libpng-1.5.26.tar.xz@eb1f924c92ddd8ee2e0b4d87a3880d626021765a@ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng15/libpng-1.5.26.tar.xz
 qt-everywhere-opensource-src-4.8.6.tar.gz@ddf9c20ca8309a116e0466c42984238009525da6@http://gentoo.mirrors.tds.net/gentoo/distfiles/qt-everywhere-opensource-src-4.8.6.tar.gz
 tiff-4.0.3.tar.gz@652e97b78f1444237a82cbcfe014310e776eb6f0@http://gentoo.mirrors.tds.net/gentoo/distfiles/tiff-4.0.3.tar.gz
-fftw-3.3.3.tar.gz@11487180928d05746d431ebe7a176b52fe205cf9@ftp://ftp.fftw.org/pub/fftw/fftw-3.3.3.tar.gz
 ilmbase-2.1.0.tar.gz@306d76e7a2ac619c2f641f54b59dd95576525192@http://download.savannah.nongnu.org/releases/openexr/ilmbase-2.1.0.tar.gz
 openexr-2.1.0.tar.gz@4a3db5ea527856145844556e0ee349f45ed4cbc7@http://download.savannah.nongnu.org/releases/openexr/openexr-2.1.0.tar.gz
 embree-bin-2.4_linux.zip@32e8851bb2bcaab2d01264a8a28baf5c9f3a5897@http://github.com/embree/embree-bin/archive/v2.4_linux.zip
