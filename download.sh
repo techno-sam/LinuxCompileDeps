@@ -12,6 +12,7 @@ function verify_hash() {
 echo " * Checking distfiles"
 for LINE in `cat files` ; do
 	FILE=`echo $LINE | cut -d'@' -f1`
+	echo " * File $FILE"
 	HASH=`echo $LINE | cut -d'@' -f2`
 	URL=`echo $LINE | cut -d'@' -f3`
 	if [ ! -f $DIST/$FILE ] ; then
