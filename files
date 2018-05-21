@@ -10,6 +10,6 @@ libpng-1.5.26.tar.xz@eb1f924c92ddd8ee2e0b4d87a3880d626021765a@ftp://ftp.simplesy
 qt-everywhere-opensource-src-4.8.6.tar.gz@ddf9c20ca8309a116e0466c42984238009525da6@http://gentoo.mirrors.tds.net/gentoo/distfiles/qt-everywhere-opensource-src-4.8.6.tar.gz
 tiff-4.0.3.tar.gz@652e97b78f1444237a82cbcfe014310e776eb6f0@http://gentoo.mirrors.tds.net/gentoo/distfiles/tiff-4.0.3.tar.gz
 ilmbase-2.1.0.tar.gz@306d76e7a2ac619c2f641f54b59dd95576525192@http://download.savannah.nongnu.org/releases/openexr/ilmbase-2.1.0.tar.gz
-openexr-2.1.0.tar.gz@4a3db5ea527856145844556e0ee349f45ed4cbc7@http://download.savannah.nongnu.org/releases/openexr/openexr-2.1.0.tar.gz
+openexr-2.2.1.tar.gz@585cf77cdc3dc0d9d71531dfa747c4a11c5ec9e8@https://github.com/openexr/openexr/releases/download/v2.2.1/openexr-2.2.1.tar.gz
 embree-2.17.1.x86_64.linux.tar.gz@9177fb55d0229bb74a32335e6d2daea5a1cc63c0@https://github.com/embree/embree/releases/download/v2.17.1/embree-2.17.1.x86_64.linux.tar.gz
 tbb2018_20180312oss_lin.tgz@00bcc86c8d64c5a186f0411fa8ddfc6cb28ba516@https://github.com/01org/tbb/releases/download/2018_U3/tbb2018_20180312oss_lin.tgz
