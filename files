@@ -11,4 +11,4 @@ ilmbase-2.2.0.tar.gz@70d864bc704f276942cb10479f2cb98646ce6ad4@http://download.sa
 openexr-2.2.0.tar.gz@d09a68c4443b7a12a0484c073adaef348b44cb92@http://download.savannah.nongnu.org/releases/openexr/openexr-2.2.0.tar.gz
 embree-3.2.4.x86_64.linux.tar.gz@1c448ee91463bf943bb3fd49c76f5263e961ea30@https://github.com/embree/embree/releases/download/v3.2.4/embree-3.2.4.x86_64.linux.tar.gz
 tbb2018_20180312oss_lin.tgz@00bcc86c8d64c5a186f0411fa8ddfc6cb28ba516@https://github.com/01org/tbb/releases/download/2018_U3/tbb2018_20180312oss_lin.tgz
-oidn-1.0.0.x86_64.linux.tar.gz@b7d98d0201f5529624bb9e390cba3182d3ff81a8@https://github.com/OpenImageDenoise/oidn/releases/download/v1.0.0/oidn-1.0.0.x86_64.linux.tar.gz
+oidn-1.2.1.x86_64.linux.tar.gz@dee3f8dc6e23ab987c0ad8b4f12c1f98c1b32050@https://github.com/OpenImageDenoise/oidn/releases/download/v1.2.1/oidn-1.2.1.x86_64.linux.tar.gz
