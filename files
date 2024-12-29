@@ -1,7 +1,7 @@
 xz-5.0.5.tar.xz@56f1d78117f0c32bbb1cfd40117aa7f55bee8765@http://tukaani.org/xz/xz-5.0.5.tar.xz
 freetype-2.4.11.tar.bz2@b15e5a0b30c1e854484b410340f6429ad1253c74@http://download.savannah.gnu.org/releases/freetype/freetype-2.4.11.tar.bz2
 jpegsrc.v9d.tar.gz@0bf0fbc3f6f1b5f7d5ad4734eae8cbb148517d6f@http://www.ijg.org/files/jpegsrc.v9d.tar.gz
-embree-3.12.2.x86_64.linux.tar.gz@a90a0595f2d98876b4b978870cf40d7a5240ad75@https://github.com/embree/embree/releases/download/v3.12.2/embree-3.12.2.x86_64.linux.tar.gz
+embree-4.3.2.x86_64.linux.tar.gz@5072848a8317796442b64f14e3d3ddbd01770f2a@https://github.com/RenderKit/embree/releases/download/v4.3.2/embree-4.3.2.x86_64.linux.tar.gz
 libpng-1.6.37.tar.gz@72f1eda17c84dcf4e6260f92ada27d863b7e9d36@https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/libpng-1.6.37.tar.gz
 tbb2019_20191006oss_lin.tgz@ac1d7390c7ff1cae16a9b8dba0c08fcfa4b101b9@https://github.com/oneapi-src/oneTBB/releases/download/2019_U9/tbb2019_20191006oss_lin.tgz
 boost_1_82_0.tar.gz@0e0d4bdac2628ebeff2c2a63b87514217832839d@https://archives.boost.io/release/1.82.0/source/boost_1_82_0.tar.gz
