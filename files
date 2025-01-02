@@ -3,7 +3,7 @@ freetype-2.4.11.tar.bz2@b15e5a0b30c1e854484b410340f6429ad1253c74@http://download
 jpegsrc.v9d.tar.gz@0bf0fbc3f6f1b5f7d5ad4734eae8cbb148517d6f@http://www.ijg.org/files/jpegsrc.v9d.tar.gz
 embree-4.3.2.x86_64.linux.tar.gz@5072848a8317796442b64f14e3d3ddbd01770f2a@https://github.com/RenderKit/embree/releases/download/v4.3.2/embree-4.3.2.x86_64.linux.tar.gz
 libpng-1.6.37.tar.gz@72f1eda17c84dcf4e6260f92ada27d863b7e9d36@https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/libpng-1.6.37.tar.gz
-tbb2019_20191006oss_lin.tgz@ac1d7390c7ff1cae16a9b8dba0c08fcfa4b101b9@https://github.com/oneapi-src/oneTBB/releases/download/2019_U9/tbb2019_20191006oss_lin.tgz
+tbb-2020.3-lin.tgz@d75b842c232a48993c3b32b47869a4158c133d76@https://github.com/uxlfoundation/oneTBB/releases/download/v2020.3/tbb-2020.3-lin.tgz
 boost_1_82_0.tar.gz@0e0d4bdac2628ebeff2c2a63b87514217832839d@https://archives.boost.io/release/1.82.0/source/boost_1_82_0.tar.gz
 OpenImageIO-2.5.6.0.tar.gz@583f0dc67d3322af74398708603f5acf8e7a3d74@https://github.com/AcademySoftwareFoundation/OpenImageIO/archive/refs/tags/v2.5.6.0.tar.gz
 openexr-3.2.1.tar.gz@1306c58edc740200b85a203b523144d562bcd1de@https://github.com/AcademySoftwareFoundation/openexr/archive/refs/tags/v3.2.1.tar.gz
